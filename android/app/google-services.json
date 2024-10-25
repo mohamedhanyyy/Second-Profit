@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261977937026",
+    "project_id": "hr-pstt",
+    "storage_bucket": "hr-pstt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261977937026:android:8d24b5d0b9ad909f7c509b",
+        "android_client_info": {
+          "package_name": "com.nuumex.taskaty1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD24qI4hQIbJo7dipgNpAkPcbsIetmZhr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
